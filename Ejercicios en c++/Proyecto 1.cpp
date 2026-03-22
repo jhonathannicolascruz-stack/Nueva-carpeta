@@ -29,13 +29,13 @@ int main(){
  
 Double Fahrenheit;
 Double celsius;
-
+}
 cout<<"===Menu=="
 cout<<"=Bienvenido a la calculadora de celsius a fahrenheit=";
 cout<<"=Ingresa la cantidad que quieras a transformar a fahrenheit=";
 cin>>celsius;
 //Leer el valor que ingreso el usuario
-if (celsius<0)
+if (celsius<0){
 cout<<"El valor no puede ser un numero negativo"
 return 1;
 }
@@ -43,5 +43,7 @@ return 1;
 Convertir grados a celsius
 Fahrenheit = (celsius * 9/5)+ 32
 
+cout<<"La temperatura en fahrenheit es << Fahranheit <<"°F" << endl; "
+Return 0;
 
 */
