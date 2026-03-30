@@ -27,7 +27,7 @@ int main(){
 
 //Declaramos variables para guardar los valores celsius y fahrenheit
  
-Double Fahrenheit;
+Double fahrenheit;
 Double celsius;
 }
 cout<<"===Menu=="
@@ -40,7 +40,7 @@ cout<<"El valor no puede ser un numero negativo"
 return 1;
 }
 
-Convertir grados a celsius
+Convertir celsius a fahrenheit
 Fahrenheit = (celsius * 9/5)+ 32
 
 cout<<"La temperatura en fahrenheit es << Fahranheit <<"°F" << endl; "

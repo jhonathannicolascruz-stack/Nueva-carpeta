@@ -1,0 +1,27 @@
+/*
+Titulo: Plantilla A - Estructura basica en Java
+Autor: Jhonathan cruz
+
+Enunciado: 
+ Mostrar la estructura minima de un programa en Java
+
+*/
+
+public class App{// Aqui declaramos una clase publica llamada App
+    public static void main(String[]args){// Este es el metodo principal: el programa inicia aqui
+       System.out.println("Hola, Java"); // Esta linea imprime un mensaje en consola
+
+    } //Aqui termina el main
+} //Aqui termina la clase App
+
+
+
+
+
+/*
+Titulo: Plantilla B - Clase simple en Java
+Autor: Jhonathan Torres
+
+Enunciado:
+    Crear una clase llamada Persona con atributos simples
+*/
