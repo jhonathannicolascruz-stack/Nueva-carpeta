@@ -1,0 +1,39 @@
+/*
+Fecha:30/3/2026
+Nombre:Jhonathan Cruz
+Enunciado:Realizar un sistema el cual permita que el usuario Ingrese dos cantidades de cualquier valor
+ para que sean multiplicados entre si
+
+
+E/P/S
+
+Entrada:
+ 1.Mostrar un menu 
+ 2.Recibir los valor que el usuario ingreso
+ 3.Validar que los valores sea un numero y no un texto
+
+Proceso:
+ 1.Multiplicar los valores que el usuario ingreso
+ 2.Calcular el resultado de los valores multiplicados
+
+Salida:
+1.Mostrar el resultado y finalizar programa
+
+
+public class Multiplicacion{
+    public static void main(String[]args){
+    //Crear objeto para leer entradas del usuario
+     Scanner lector = new
+    Scanner(System.in);
+     double valor1,valor2;
+     
+
+
+
+
+
+
+    */
+
+
+

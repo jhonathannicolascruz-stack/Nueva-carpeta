@@ -7,9 +7,7 @@ Enunciado:
 
 */
 
-public class App{// Aqui declaramos una clase publica llamada App
-    public static void main(String[]args){// Este es el metodo principal: el programa inicia aqui
-       System.out.println("Hola, Java"); // Esta linea imprime un mensaje en consola
+
 
     } //Aqui termina el main
 } //Aqui termina la clase App
